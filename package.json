@@ -9,12 +9,6 @@
   "scripts": {
     "test": "npx mocha --exit"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/clean-s-1/stream-line-kmzakiya/issues"
-  },
-  "homepage": "https://github.com/clean-s-1/stream-line-kmzakiya#readme",
   "nyc": {
     "all": true,
     "exclude": [
