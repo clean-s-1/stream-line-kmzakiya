@@ -9,10 +9,6 @@
   "scripts": {
     "test": "npx mocha --exit"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/clean-s-1/stream-line-kmzakiya.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
